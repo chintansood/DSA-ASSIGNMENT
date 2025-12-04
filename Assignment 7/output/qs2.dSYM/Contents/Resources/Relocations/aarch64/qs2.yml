@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nkg/DSA/DSA LAB/output/qs2'
+relocations:     []
+...
